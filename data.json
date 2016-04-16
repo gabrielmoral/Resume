@@ -4,22 +4,48 @@
     "position": "",
     "jobs": [
         {
-            "companyName": "",
-            "period": "",
+            "position": ".NET Software Developer",
+            "companyName": "Sopra Group",
+            "companyLink": "www.sopragroup.es",
+            "period": "June 2013 - Present",
             "resposibilities": [
-                "",
-                ""
+                "Development of an application to manage agricultural group specialized in field seeds, vegetable seeds and cereal products."
             ],
-            "habilities": ""
+            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server."
         },
         {
-            "companyName": "",
-            "period": "",
+            "position": ".NET Software Developer",
+            "companyName": "Prodevelop",
+            "companyLink": "www.prodevelop.es",
+            "period": "February 2010 - June 2013",
             "resposibilities": [
-                "",
-                ""
+                "Development of an electronic office for the citizen for the Port Authority Valencia.",
+                "Development of a framework to build applications in the port sector.",
+                "Development of a web portal to manage and real-time geolocate port activities."
             ],
-            "habilities": ""
+            "habilities": "C#, Vb.Net, Asp.Net, Infragistics, WCF, WF, Entity Framework, HTML5, Javascript, CSS3, Knockout, Bootstrap, Requirejs, Git, SVN, Agile methodologies, Postgres, SQL Server."
+        },
+        {
+            "position": ".NET Technical Consultant",
+            "companyName": "OdPe Business Solutions",
+            "companyLink": "www.odpe.com",
+            "period": "December 2008 - February 2010",
+            "resposibilities": [
+                "Sanitas: Deployment of Project Server 2007, development of reports about resources time, cost estimate and earned value.",
+                "CajaSur: Development of an application to manage and prioritize projects and ideas of customer."
+            ],
+            "habilities": "C#, Asp.Net, Project Server, SharePoint, InfoPath, Workflow Foundation, Web services, Reporting Services, SQL Server."
+        },
+        {
+            "position": ".NET Software Developer",
+            "companyName": "Metrored S.A.",
+            "companyLink": "",
+            "period": "February 2010 - June 2013",
+            "resposibilities": [
+                "Development of internal application to manage database stored procedures.",
+                "Development of an application about call phone costs to improve profit margins."
+            ],
+            "habilities": "C#, Asp.Net, Telerik controls, Reporting services, Spring.Net, NHibernate, SQL Server."
         }
     ],
     "courses": [
