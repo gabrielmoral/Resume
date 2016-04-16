@@ -1,0 +1,45 @@
+{
+    "name": "Gabriel",
+    "descriprion": "",
+    "position": "",
+    "jobs": [
+        {
+            "companyName": "",
+            "period": "",
+            "resposibilities": [
+                "",
+                ""
+            ],
+            "habilities": ""
+        },
+        {
+            "companyName": "",
+            "period": "",
+            "resposibilities": [
+                "",
+                ""
+            ],
+            "habilities": ""
+        }
+    ],
+    "courses": [
+        {
+            "title": "",
+            "instructedBy": "",
+            "where": "",
+            "topics": ""
+        },
+        {
+            "title": "",
+            "instructedBy": "",
+            "where": "",
+            "topics": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "",
+            "period": ""
+        }
+    ]
+}
