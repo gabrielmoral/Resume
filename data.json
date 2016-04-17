@@ -2,6 +2,30 @@
     "name": "Gabriel",
     "descriprion": "",
     "position": "",
+    "email" : "gabrielmoralortiz@gmail.com",
+    "sites" : [
+        "https://elcaminodeunaprendiz.wordpress.com",
+        "http://github.com/gabrielmoral/",
+        "https://twitter.com/gabrielmoral"
+    ],
+    "languages": [
+        {
+            "name": "Spanish",
+            "level": "Mother tongue"
+        },
+        {
+            "name": "Catalan",
+            "level": "Mother tongue"
+        },
+        {
+            "name": "English",
+            "level": "First (FCE)"
+        },
+        {
+            "name": "French",
+            "level": "A1"
+        }
+    ],
     "jobs": [
         {
             "position": ".NET Software Developer",
