@@ -7,7 +7,7 @@
             "position": ".NET Software Developer",
             "companyName": "Sopra Group",
             "companyLink": "www.sopragroup.es",
-            "period": "June 2013 - Present",
+            "when": "June 2013 - Present",
             "resposibilities": [
                 "Development of an application to manage agricultural group specialized in field seeds, vegetable seeds and cereal products."
             ],
@@ -17,7 +17,7 @@
             "position": ".NET Software Developer",
             "companyName": "Prodevelop",
             "companyLink": "www.prodevelop.es",
-            "period": "February 2010 - June 2013",
+            "when": "February 2010 - June 2013",
             "resposibilities": [
                 "Development of an electronic office for the citizen for the Port Authority Valencia.",
                 "Development of a framework to build applications in the port sector.",
@@ -29,7 +29,7 @@
             "position": ".NET Technical Consultant",
             "companyName": "OdPe Business Solutions",
             "companyLink": "www.odpe.com",
-            "period": "December 2008 - February 2010",
+            "when": "December 2008 - February 2010",
             "resposibilities": [
                 "Sanitas: Deployment of Project Server 2007, development of reports about resources time, cost estimate and earned value.",
                 "CajaSur: Development of an application to manage and prioritize projects and ideas of customer."
@@ -40,7 +40,7 @@
             "position": ".NET Software Developer",
             "companyName": "Metrored S.A.",
             "companyLink": "",
-            "period": "February 2010 - June 2013",
+            "when": "February 2010 - June 2013",
             "resposibilities": [
                 "Development of internal application to manage database stored procedures.",
                 "Development of an application about call phone costs to improve profit margins."
@@ -50,22 +50,59 @@
     ],
     "courses": [
         {
-            "title": "",
-            "instructedBy": "",
-            "where": "",
-            "topics": ""
+            "title": "Programming Mobile Applications for Android Handled Systems",
+            "instructedBy": "University of Maryland, Coursera.",
+            "where": "Online",
+            "when": "January 2014 - March 2014",
+            "topics": "Android programming."
         },
         {
-            "title": "",
-            "instructedBy": "",
-            "where": "",
-            "topics": ""
+            "title": "Online training course: Test doubles.",
+            "instructedBy": "Carlos Ble",
+            "where": "Online",
+            "when": "August 2013 - September 2013",
+            "topics": "Test doubles, mocks, spies, stubs, TDD."
+        },
+        {
+            "title": "CS-169.1x Software as a Service.",
+            "instructedBy": "Berkley University, edX",
+            "where": "Online",
+            "when": "August 2013 - September 2013",
+            "topics": "Ruby, SaaS, RoR, Git, Heroku, Design patterns."
+        },
+        {
+            "title": "Agile development course",
+            "instructedBy": "beCode",
+            "where": "Valencia",
+            "when": "March 2013 - June 2013",
+            "topics": "Agile methodologies, TDD, Scrum, Kanban, Git, Continuous integration (Jenkins), Design patterns, SOLID."
+        },
+        {
+            "title": "Certificate 70-480 Programming in HTML5 with JavaScript and CSS3.",
+            "instructedBy": "Microsoft",
+            "where": "Online",
+            "when": "December 2012 - January 2013",
+            "topics": "HTML5, Javascript, CSS3."
+        },
+        {
+            "title": "70-536 Microsoft .NET Framework - Application Development Foundation.",
+            "instructedBy": "Campus MVP",
+            "where": "Online",
+            "when": "March 2011 - June 2011",
+            "topics": ".NET Framework"
+        },
+        {
+            "title": "SharePoint 2010 Ignite Developer",
+            "instructedBy": "Nanfor Iberica",
+            "where": "Valencia",
+            "when": "September 2010",
+            "topics": "SharePoint 2010, SharePoint Designer."
         }
     ],
     "education": [
         {
             "title": "",
-            "period": ""
+            "when": ""
         }
     ]
 }
