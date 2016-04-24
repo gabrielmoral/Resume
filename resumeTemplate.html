@@ -1,0 +1,123 @@
+<!-- Header-->
+<header>
+    <h1>{{name}}</h1>
+    <p>{{position}}</p>
+</header>
+
+<div class="container">
+    <section class="center">
+        <p> {{description}} </p>
+    </section>
+</div>
+
+<div class="container">
+    <section class="experience">
+        <h1>Professional experience</h1>
+        {{#jobs}}        
+        <div class="job">
+            <div class="row">
+                <div class="grid-2">
+                    <h2>
+                        <a href="{{companyLink}}">{{companyName}}</a>
+                   </h2>                 
+                    <p>{{when}}</p>
+                </div>
+                <div class="grid-4">
+                    <h2>{{position}}</h2>
+                    <ul>
+                        {{#responsibilities}}
+                        <li>{{.}}</li>
+                        {{/responsibilities}}
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="grid-6">
+                    <p>{{habilities}}</p>
+                </div>
+            </div>
+        </div>
+        {{/jobs}}
+    </section>
+
+    <section class="experience">
+        <h1>Courses</h1>
+        {{#courses}}
+        <div class="job">
+            <div class="row">
+                <div class="grid-2">
+                    <p>{{when}}</p>
+                </div>
+                <div class="grid-4">
+                    <p>{{title}}, {{instructedBy}}, {{where}}</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="grid-6">
+                    {{topics}}
+                </div>
+            </div>
+        </div>
+        {{/courses}}
+    </section>
+    
+    <section class="experience">
+        <h1>Education</h1>
+        {{#education}}
+        <div class="job">
+            <div class="row">
+                <div class="grid-2">
+                    <p>{{when}}</p>
+                </div>
+                <div class="grid-4">
+                    {{title}}, {{where}}
+                </div>
+            </div>
+            <div class="row">
+                <div class="grid-6">
+                    {{topics}}
+                </div>
+            </div>
+        </div>
+        {{/education}}
+    </section>
+
+    <section>
+        <!--List of skills-->
+        <div class="row">
+            <div class="grid-2">
+                <h1>Skills</h1>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Javascript</li>
+                    <li>Angular.js</li>
+                    <li>Photoshop</li>
+                    <li>Git</li>
+                </ul>
+            </div>
+
+            <div class="grid-4">
+                <h1>In Conclusion</h1>
+                <p>
+                    This is a good spot to highlight experiance and skills. Make sure to include a call to action like a link to your website,
+                    or your email address. If you find bugs, want features, or have questions, feel free to submit an
+                    <a href="https://github.com/philipcdavis/responsive-resume/issues">issue</a>. You are free to use without
+                    attribution. If you're ok sharing, I would love seeing what you make! Shoot me an
+                    <a href="mailto:Phillysoul11@gmail.com?Subject=Responsive%20Resume" target="_top">email</a> or
+                    <a href="http://www.twitter.com/philipcdavis">tweet</a> at me.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--Footer-->
+    <footer class="center">
+        <hr>
+        <span>&copy; {{name}}</span>
+    </footer>
+
+</div>
+<!-- End Container -->

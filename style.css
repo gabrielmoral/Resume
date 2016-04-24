@@ -6,7 +6,7 @@ body {
   font: 100% sans-serif;
   margin: 0em;
   background-color: #fff;
-  color: #666;
+  color: #555;
 }
 
 h1, h2, h3 {
@@ -49,12 +49,9 @@ header {
 }
 
 header h1 {
-  color: white;
+  color: #444;
   font-size: 2em;
   margin: 0;
-  letter-spacing: 1px;
-  opacity: 1;
-  text-shadow: 0 3px 0 rgba(0,0,0, 0.5);
   position: relative;
   top: 50px;
   font-weight: 700;
@@ -123,6 +120,12 @@ footer hr {
   margin-left: auto;
 }
 
+
+.container h1 {
+  margin-bottom: 0.1m;
+  font-weight: bold;
+}
+
 .row {
   clear: both;
   margin-right: -1%;
@@ -172,15 +175,12 @@ footer hr {
 
 /* -------------------Custom Blocks----------------- */
 
-/* Experience */
-.experience [class*="row"] {
-  border-bottom: dotted 1px #ccc;
-  padding-top: 1em;
-  padding-bottom: 1em;
+.experience [class*="job"] {
+  border-top: solid 1px #ccc;
 }
-
 .experience h2 {
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 .experience h2, .experience p {
