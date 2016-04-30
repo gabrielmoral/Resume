@@ -1,7 +1,7 @@
 {
     "name": "Gabriel Moral",
-    "description": "My description",
-    "position": ".Net Software Developer",
+    "description": "Hello! I'm Gabriel Moral, I'm from Valencia, Spain. I love programming and currently I'm working at Dimatica Software Development company. Please, contact me at ",
+    "position": "Software Developer",
     "email" : "gabrielmoralortiz@gmail.com",
     "sites" : [
         "https://elcaminodeunaprendiz.wordpress.com",
@@ -28,51 +28,75 @@
     ],
     "jobs": [
         {
-            "position": ".NET Software Developer",
+            "position": ".Net Software Developer",
+            "companyName": "Dimatica Software Development",
+            "companyLink": "http://dimaticasoftware.com",
+            "when": "February 2015 - Present",
+            "responsibilities": [
+                "Collaborating with Aguas de Valencia to improve the application involved into the water supply management in Valencia."
+            ],
+            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server, Unit tests, Continuos integration, Javascript, Openlayers."            
+        },
+        {
+            "position": ".Net Software Developer",
             "companyName": "Sopra Group",
             "companyLink": "http://www.sopragroup.es",
-            "when": "June 2013 - Present",
+            "when": "June 2013 - February 2015",
             "responsibilities": [
-                "Development of an application to manage agricultural group specialized in field seeds, vegetable seeds and cereal products."
+                "Development of an application to manage company specialized in agricultural field seeds, vegetables seeds and cereal products."
             ],
             "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server."
         },
         {
-            "position": ".NET Software Developer",
+            "position": ".Net Software Developer",
             "companyName": "Prodevelop",
             "companyLink": "http://www.prodevelop.es",
-            "when": "February 2010 - June 2013",
+            "when": "Febrero 2010 - June 2013",
             "responsibilities": [
-                "Development of an electronic office for the citizen for the Port Authority Valencia.",
-                "Development of a framework to build applications in the port sector.",
-                "Development of a web portal to manage and real-time geolocate port activities."
+                "Development of a virtual office destined to manage the service requests for Port Authority Valencia.",
+                "Development of a framework to build web and desktop applications for Port Authority Valencia.",
+                "Development of a web portal to manage and geolocate in real-time port activities."
             ],
             "habilities": "C#, Vb.Net, Asp.Net, Infragistics, WCF, WF, Entity Framework, HTML5, Javascript, CSS3, Knockout, Bootstrap, Requirejs, Git, SVN, Agile methodologies, Postgres, SQL Server."
         },
         {
-            "position": ".NET Technical Consultant",
+            "position": ".Net Technical Consultant",
             "companyName": "OdPe Business Solutions",
             "companyLink": "http://www.odpe.com",
-            "when": "December 2008 - February 2010",
+            "when": "December 2008 - January 2010",
             "responsibilities": [
-                "Sanitas: Deployment of Project Server 2007, development of reports about resources time, cost estimate and earned value.",
-                "CajaSur: Development of an application to manage and prioritize projects and ideas of customer."
+                "Sanitas: Plugin developements for Project Server 2007, development of reports about human resources time, estimate cost and earned value.",
+                "CajaSur: Development of an application to manage and prioritize projects and customer's ideas."
             ],
             "habilities": "C#, Asp.Net, Project Server, SharePoint, InfoPath, Workflow Foundation, Web services, Reporting Services, SQL Server."
         },
         {
-            "position": ".NET Software Developer",
+            "position": ".Net Software Developer",
             "companyName": "Metrored S.A.",
             "companyLink": "",
-            "when": "February 2010 - June 2013",
+            "when": "April 2008 - December 2008",
             "responsibilities": [
                 "Development of internal application to manage database stored procedures.",
-                "Development of an application about call phone costs to improve profit margins."
+                "Development of an application to manage costs of phone calls and improve profit margins."
             ],
             "habilities": "C#, Asp.Net, Telerik controls, Reporting services, Spring.Net, NHibernate, SQL Server."
         }
     ],
     "courses": [
+        {
+            "title": "Continuous delivery.",
+            "instructedBy": "GeeksHubs Academy",
+            "where": "Online",
+            "when": "March 2016 - May 2016",
+            "topics": "Distributed version control, continuous integration, Vagrant, Ansible, Docker, deployment pipeline, blue deployment, canary release."
+        },
+        {
+            "title": "Refactoring to patterns",
+            "instructedBy": "GeeksHubs Academy",
+            "where": "Online",
+            "when": "March 2015 - June 2015",
+            "topics": "Refactoring, Desing Patterns."
+        },
         {
             "title": "Programming Mobile Applications for Android Handled Systems",
             "instructedBy": "University of Maryland, Coursera.",
@@ -109,11 +133,11 @@
             "topics": "HTML5, Javascript, CSS3."
         },
         {
-            "title": "70-536 Microsoft .NET Framework - Application Development Foundation.",
+            "title": "70-536 Microsoft .Net Framework - Application Development Foundation.",
             "instructedBy": "Campus MVP",
             "where": "Online",
             "when": "March 2011 - June 2011",
-            "topics": ".NET Framework"
+            "topics": ".Net Framework"
         },
         {
             "title": "SharePoint 2010 Ignite Developer",
@@ -125,13 +149,13 @@
     ],
     "education": [
         {
-            "title": "Graduate certificate of Object-oriented software engineering ",
+            "title": "Object-oriented software engineering graduate certificate.",
             "where": "Univeritat Oberta de Catalunya",
             "when": "September 2009 - June 2010",
             "topics": "UML, Use cases diagram, patterns."
         },
         {
-            "title": "Certificate of Higher Education of Software development",
+            "title": "Software development higher education certificate.",
             "where": "Valencia",
             "when": "September 2006 - June 2008",
             "topics": "C, Java, PHP, MySQL."

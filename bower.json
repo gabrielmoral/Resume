@@ -1,0 +1,21 @@
+{
+  "name": "Resume",
+  "homepage": "https://github.com/gabrielmoral/Resume",
+  "authors": [
+    "Gabriel Moral <gabrielmoralortiz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mustache.js": "mustache#^2.2.1",
+    "jquery": "^2.2.3"
+  }
+}
