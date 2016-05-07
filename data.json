@@ -1,12 +1,21 @@
 {
     "name": "Gabriel Moral",
-    "description": "Hello! I'm Gabriel Moral, I'm from Valencia, Spain. I love programming and currently I'm working at Dimatica Software Development company. Please, contact me at ",
+    "description": "Hello! I'm Gabriel Moral, I'm from Valencia, Spain. I love programming and currently I'm working at Dimatica Software Development company. You can contact me at ",
     "position": "Software Developer",
-    "email" : "gabrielmoralortiz@gmail.com",
-    "sites" : [
-        "https://elcaminodeunaprendiz.wordpress.com",
-        "http://github.com/gabrielmoral/",
-        "https://twitter.com/gabrielmoral"
+    "email": "gabrielmoralortiz@gmail.com",
+    "sites": [
+        {
+            "url": "https://elcaminodeunaprendiz.wordpress.com",
+            "icon": "wordpress_icon.png"
+        },
+        {
+            "url": "http://github.com/gabrielmoral/",
+            "icon": "github_icon.png"
+        },
+        {
+            "url": "https://twitter.com/gabrielmoral",
+            "icon": "twitter_icon.png"
+        }
     ],
     "languages": [
         {
@@ -35,7 +44,7 @@
             "responsibilities": [
                 "Collaborating with Aguas de Valencia to improve the application involved into the water supply management in Valencia."
             ],
-            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server, Unit tests, Continuos integration, Javascript, Openlayers."            
+            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server, Unit tests, Continuos integration, Javascript, Openlayers."
         },
         {
             "position": ".Net Software Developer",

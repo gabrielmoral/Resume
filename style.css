@@ -77,8 +77,9 @@ section h1 {
 /* Same font-size and line-height as p element */
 section ul li, section ol li {
   font-size: 1em;
-  margin-left: -10px;
+  margin-right: 30px;
   line-height: 1.6;
+  display:inline;
 }
 
 footer {
