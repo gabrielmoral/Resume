@@ -52,7 +52,7 @@
             "companyLink": "http://www.sopragroup.es",
             "when": "June 2013 - February 2015",
             "responsibilities": [
-                "Development of an application to manage company specialized in agricultural field seeds, vegetables seeds and cereal products."
+                "Development of an application to manage specialised company in agricultural field seeds, vegetables seeds and cereal products."
             ],
             "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server."
         },
@@ -64,7 +64,7 @@
             "responsibilities": [
                 "Development of a virtual office destined to manage the service requests for Port Authority Valencia.",
                 "Development of a framework to build web and desktop applications for Port Authority Valencia.",
-                "Development of a web portal to manage and geolocate in real-time port activities."
+                "Development of a web portal to manage and geolocate port activities in real-time."
             ],
             "habilities": "C#, Vb.Net, Asp.Net, Infragistics, WCF, WF, Entity Framework, HTML5, Javascript, CSS3, Knockout, Bootstrap, Requirejs, Git, SVN, Agile methodologies, Postgres, SQL Server."
         },
@@ -74,8 +74,8 @@
             "companyLink": "http://www.odpe.com",
             "when": "December 2008 - January 2010",
             "responsibilities": [
-                "Sanitas: Plugin developements for Project Server 2007, development of reports about human resources time, estimate cost and earned value.",
-                "CajaSur: Development of an application to manage and prioritize projects and customer's ideas."
+                "Sanitas: Plugin developments for Project Server 2007, human resources time reports, estimate cost reports and earned value reports.",
+                "CajaSur: Developing an application to manage and prioritize projects and customer's ideas."
             ],
             "habilities": "C#, Asp.Net, Project Server, SharePoint, InfoPath, Workflow Foundation, Web services, Reporting Services, SQL Server."
         },
@@ -85,7 +85,7 @@
             "companyLink": "",
             "when": "April 2008 - December 2008",
             "responsibilities": [
-                "Development of internal application to manage database stored procedures.",
+                "Development of an internal application to manage database stored procedures.",
                 "Development of an application to manage costs of phone calls and improve profit margins."
             ],
             "habilities": "C#, Asp.Net, Telerik controls, Reporting services, Spring.Net, NHibernate, SQL Server."
@@ -100,7 +100,7 @@
             "topics": "Distributed version control, continuous integration, Vagrant, Ansible, Docker, deployment pipeline, blue deployment, canary release."
         },
         {
-            "title": "Refactoring to patterns",
+            "title": "Refactoring to patterns.",
             "instructedBy": "GeeksHubs Academy",
             "where": "Online",
             "when": "March 2015 - June 2015",
@@ -128,7 +128,7 @@
             "topics": "Ruby, SaaS, RoR, Git, Heroku, Design patterns."
         },
         {
-            "title": "Agile development course",
+            "title": "Agile development course.",
             "instructedBy": "beCode",
             "where": "Valencia",
             "when": "March 2013 - June 2013",
@@ -149,7 +149,7 @@
             "topics": ".Net Framework"
         },
         {
-            "title": "SharePoint 2010 Ignite Developer",
+            "title": "SharePoint 2010 Ignite Developer.",
             "instructedBy": "Nanfor Iberica",
             "where": "Valencia",
             "when": "September 2010",
