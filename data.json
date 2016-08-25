@@ -42,9 +42,11 @@
             "companyLink": "http://dimaticasoftware.com",
             "when": "February 2015 - Present",
             "responsibilities": [
-                "Collaborating with Aguas de Valencia to improve the application involved into the water supply management in Valencia."
+                "Collaborating with Aguas de Valencia to improve the application involved into the water supply management in Valencia.",
+                "Responsible for installing and configuring the continuous integration system.",
+                "Responsible for trainning and helping other team members with unit tests and architectural design."
             ],
-            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server, Unit tests, Continuos integration, Javascript, Openlayers."
+            "habilities": "C#, TDD, Design Patterns, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server, Unit tests, Continuos integration, Javascript, Openlayers."
         },
         {
             "position": ".Net Software Developer",
@@ -52,9 +54,10 @@
             "companyLink": "http://www.sopragroup.es",
             "when": "June 2013 - February 2015",
             "responsibilities": [
-                "Development of an application to manage specialised company in agricultural field seeds, vegetables seeds and cereal products."
+                "Development of an application to manage specialised company in agricultural field seeds, vegetables seeds and cereal products.",
+                "Team leader of small team, responsible of giving technical guidelines and distribute tasks."
             ],
-            "habilities": "C#, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server."
+            "habilities": "C#, TDD, Design Patterns, WPF, Telerik, WCF, Entity Framework, TFS, SQL Server."
         },
         {
             "position": ".Net Software Developer",
